@@ -1,0 +1,7 @@
+data_files/*
+sleepEDF20_fpzcz/*
+*.pyc
+.vscode 
+__pycache__
+*.edf
+*.log
